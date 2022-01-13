@@ -1,0 +1,20 @@
+{
+  "name": "assignment_4",
+  "version": "1.0.0",
+  "description": "Assignment 4 with mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Mukesh Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "faker": "^5.5.3",
+    "method-override": "^3.0.0",
+    "mongodb": "^4.2.2",
+    "mongoose": "^6.1.4",
+    "nodemon": "^2.0.15"
+  }
+}
